@@ -1,13 +1,3 @@
-# Trkfolio
+# trkfolio
 
-Hi there!
-
-Are you tired of manually tracking your investments and finances? Look no further than trkfolio! Our finance application makes it easy to keep track of all your investments in one place.
-
-With trkfolio, you can:
-
-Connect all your financial accounts, including brokerage accounts, retirement accounts, and banking accounts.
-Get a real-time overview of your portfolio performance, including asset allocation and risk analysis.
-Set up alerts to stay informed of important changes in your investments.
-Use our budgeting and expense tracking tools to better manage your finances.
-Our user-friendly interface and powerful features make trkfolio the perfect choice for investors of all levels. Try it out today and take control of your financial future!
+Introducing trkfilio, the ultimate multipurpose tracking app for managing your finances, food, habits, prayer, schedule, gym, and utilities. With trkfilio, you can input your expenses and set a budget target to receive a recommended budget. You can also plan out your meals for the week and create a shopping list with store information. Keep track of your habits, such as skin care and brushing teeth, with custom reminders. Sync the app with your Google Calendar to view and manage your appointments and tasks. Create a custom gym routine and track your progress with body fat and full body measurements. Calculate fuel consumption and convert mass units with the app's utilities. Plus, you can connect your banking information or use CSV files for budget predictions and diagrams on the custom dashboard. trkfilio is built with Django and can be used on a cloud platform, GitHub, or your home server. With GitHub Actions, trkfilio is continuously built, tested, and deployed. Containerized with Docker and deployed using Kubernetes on AWS, trkfilio is scalable and resilient. Try trkfilio today and take control of your life!

@@ -46,6 +46,7 @@ Finance:
 
 Food schedule:
 - Plan out breakfast, lunch, and dinner meals for the week
+- Track calories
 - Create a shopping list based on the planned meals
 - Input information about stores, including in stock and out of stock times
 - Manually add items to the shopping list
